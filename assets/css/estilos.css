@@ -17,11 +17,21 @@ body {
 
 /* Mis trabajos */
 
+#Mis-trabajos.bg-info {
+  background-color: #373a3c !important; 
+}
+
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+.card-title.fw-bold {
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 /* Contacto */
